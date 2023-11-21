@@ -6,17 +6,23 @@
 *.bat text eol=crlf
 *.ps1 text eol=crlf
 
+.gitignore text eol=lf
 .gitattributes text eol=lf
+
 *.md text eol=lf
 *.html text eol=lf
 *.css text eol=lf
 *.xml text eol=lf
+*.properties text eol=lf
 
 *.sh text eol=lf
 *.c text eol=lf
 *.py text eol=lf
 *.js text eol=lf
+
+gradlew text eol=lf
 *.java text eol=lf
+*.kts text eol=lf
 
 *.txt text eol=lf
 *.json text eol=lf
@@ -27,3 +33,4 @@
 
 *.png binary
 *.jpg binary
+*.jar binary
